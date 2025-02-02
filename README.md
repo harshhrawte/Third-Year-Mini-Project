@@ -1,3 +1,2 @@
-# My Project
 Login feature
-Login feature
+Registration feature
